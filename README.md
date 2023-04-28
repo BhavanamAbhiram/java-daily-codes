@@ -1,1 +1,1 @@
-# java-daily-codes
+# Java CSE-310 DailyCodes
