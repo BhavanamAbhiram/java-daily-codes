@@ -1,7 +1,3 @@
-/*WEEK1-DAY 2 
-1 QUESTION
-//  Jeevan got an assignment where he need to determine whether a given integer is prime number or not. Write a java programming solution to help Amit.*/
-
 import java.io.*;
 import java.util.*;
 
