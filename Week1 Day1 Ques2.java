@@ -1,6 +1,3 @@
-
-/*2ND QUESTION
-   John has got a Mathematical assignment where he has to find mean of a given set of 3 integers. Write a Java program solution to help John .*/
 import java.io.*;
 import java.util.*;
 
